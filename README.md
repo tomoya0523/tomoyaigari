@@ -23,9 +23,9 @@
   <h2>趣味</h2>
   <div class="project">
     <h3>サッカー</h3>
-    <img src="IMG_5685.tiff" alt="サッカー" style="width: 100%; max-width: 200px;">
+    <img src="soccer.jpg" alt="サッカー" style="width: 70%; max-width: 200px;">
     <p>
-      <strong>技術スタック：</strong> React, Node.js, MongoDB<br>
+      <strong>先日見に行った高校サッカー選手権での写真</strong><br>
       私はサッカーを小学生から高校生まで取り組んでいました。今でもよく観戦に行きます
     </p>
     
