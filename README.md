@@ -6,7 +6,7 @@
       <li><a href="#about">自己紹介</a></li>
       <li><a href="#works">趣味</a></li>
       
-    </ul>
+  
   </nav>
 </header>
 <section id="about">
