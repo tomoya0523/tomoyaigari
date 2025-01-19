@@ -5,7 +5,7 @@
     <ul>
       <li><a href="#about">自己紹介</a></li>
       <li><a href="#works">趣味</a></li>
-      <li><a href="#contact"></a></li>
+      
     </ul>
   </nav>
 </header>
@@ -32,7 +32,7 @@
   </div>
   <div class="project">
     <h3>ポケモンカード</h3>
-    <img src="portfolio.jpg" alt="ポケカ" style="width: 100%; max-width: 200px;">
+    <img src="pokeka.jpg" alt="ポケカ" style="width: 70%; max-width: 200px;">
     <p>
       こちらも小学生の頃からやっており今でも友達と定期的に集まって対戦会をしています。
     </p>
